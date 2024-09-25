@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/helloworld.fire",orientation:"",jsList:["assets/Script/fairygui.f786b.js"],bundleVers:{internal:"d0832",resources:"764a3",main:"f7ee7"}};
